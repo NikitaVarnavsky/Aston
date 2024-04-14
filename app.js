@@ -1,3 +1,3 @@
 const result = () => {
-  return console.log('Hello, world!');
+  return console.log('Lesson 1');
 };
