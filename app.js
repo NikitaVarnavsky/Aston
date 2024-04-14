@@ -1,3 +1,3 @@
 const result = () => {
-  return console.log('Lesson 1');
+  return console.log('Lesson 1, commit 3');
 };
